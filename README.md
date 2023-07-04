@@ -28,8 +28,9 @@ people’s rating of the bitterness of the coffee.
 
 <p align="center">Figure 4. Effects of Grind Size on Bitterness</p>
 
-
-<img width="415" alt="Screen Shot 2023-07-04 at 6 28 21 PM" src="https://github.com/alisa0705/Coffee-Experiment-Causal-Inference/assets/89174034/c3ed35dd-f75a-474f-80e9-03e34d15ee7b">
+<div align="center">
+  <img width="415" alt="Screen Shot 2023-07-04 at 6 28 21 PM" src="https://github.com/alisa0705/Coffee-Experiment-Causal-Inference/assets/89174034/c3ed35dd-f75a-474f-80e9-03e34d15ee7b">
+</div>
 
 <p align="center">Table 1. Effects of Grind Size on Dripping Time and Bitterness</p>
 
