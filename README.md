@@ -7,6 +7,7 @@ people’s rating of the bitterness of the coffee.
 
 <img width="610" alt="Screen Shot 2023-07-04 at 6 21 26 PM" src="https://github.com/alisa0705/Coffee-Experiment-Causal-Inference/assets/89174034/b0acec85-7c7b-4228-a0ba-89fbfeba9c2e">
 
+\begin{document}
 \centering
 Figure 1. Model of the Experiment
 \end{document}
